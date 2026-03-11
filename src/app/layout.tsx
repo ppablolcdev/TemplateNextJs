@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Next.js TypeScript Template",
-  description: "A template for technical tests with Next.js and TypeScript",
+  title: "Integracion Backend | Prueba Tecnica",
+  description: "Frontend en Next.js para consumir cuentas y transacciones del backend.",
 };
 
 export default function RootLayout({
